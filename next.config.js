@@ -4,6 +4,8 @@ module.exports = {
   images:{
     domains: ["www.google.com"],
 },
+  loader: "imgix",
+  path: "",
 }
 
 
